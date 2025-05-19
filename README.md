@@ -1,3 +1,7 @@
+<p align="center">
+ <img align="top" alt="c" width="50px" src="https://skillicons.dev/icons?i=c" />
+</p>
+
 # C Programming Repository
 
 ![C Language](https://img.shields.io/badge/language-C-blue.svg)
